@@ -1,0 +1,22 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drsmog/TestProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drsmog/TestProject/issues"
+  },
+  "homepage": "https://github.com/drsmog/TestProject#readme",
+  "dependencies": {
+    "lodash": "4.17.4"
+  }
+}
